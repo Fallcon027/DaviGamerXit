@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+div{
+    background: green;
+    width: 200px;
+    height: 200px;
+    margin: 2%;
+    color: white;
+    text-align: center;
+    font: normal 15pt Arial;
+}
